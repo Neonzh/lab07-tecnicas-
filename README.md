@@ -2,3 +2,4 @@
 Bitacora de tecnicas avanzadas de prompting 
 
 - [Bitacora de tecnicas avanzadas](prompts/BITACORA.md) 
+- [Bitacora TAREA](prompts/TAREA.md) 
